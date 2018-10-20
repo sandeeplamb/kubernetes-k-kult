@@ -36,6 +36,7 @@ I call it Kubernetes-Kay-Kult(KKK). And here is the list of all the tools in the
 03. [Kops](https://github.com/kubernetes/kops)
 04. [Kubicorn](http://kubicorn.io/)
 05. [k8s-tew](https://github.com/darxkies/k8s-tew)
+06. [Kumina](https://kumina.nl/managed_kubernetes)
 
 ## 06.Kubernetes Storage
 
