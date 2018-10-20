@@ -50,3 +50,7 @@ I call it Kubernetes-Kay-Kult(KKK). And here is the list of all the tools in the
 
 01. [Kubeflow](https://www.kubeflow.org/)
 
+## 09.Kubernetes Random
+
+01.[kubedex](https://kubedex.com)
+
